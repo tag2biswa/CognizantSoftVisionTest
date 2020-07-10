@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CognizantSoftVisionTest</string>
+    <string name="pull_to_refresh">PULL TO REFRESH</string>
+</resources>
